@@ -7,3 +7,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Whimsicaldreamerknight/Rockandwoah.git
 git push -u origin main
+
+Hii, I am "Mira Tree", the creator and developer of these sites and maybe games in the future :D
+♡♡♡☆♡☆♡☆♡☆
